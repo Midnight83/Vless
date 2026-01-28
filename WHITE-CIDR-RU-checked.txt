@@ -10,3 +10,5 @@ vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@217.16.27.217:443?encryption=none&f
 vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 
 # Updated: 2026-01-28 12:49:54
+
+# Updated: 2026-01-28 12:51:22
