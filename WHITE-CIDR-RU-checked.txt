@@ -1,21 +1,12 @@
-vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=95ec618532fa065e&sni=m.ok.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=048fe5c8be4bb687&sni=m.ok.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=d17bd238f23fba92&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=ozon.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=3f200574d011010f&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=a76ea384b29a4f79&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 vless://f913508f-af07-40af-805c-295242662f1b@95.163.214.122:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&security=reality&sni=m.vk.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
-vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=65ce6cee3941af69&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://3fc41f3f-9948-4a4c-b46b-99cebe43a4b7@51.250.32.69:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MS65bqOY_SgSw67G9gj5a_5v6GzaVRlC1EDSdYEy1lg&security=reality&sid=f7c0a11edbdb07f2&sni=www.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
-vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=7426b0c03ef009dc&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=6354585c37827955&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://e8641a44-cad0-47c4-b253-8b341f0d62af@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17802e8ff84f12df&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=d17bd238f23fba92&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://e8641a44-cad0-47c4-b253-8b341f0d62af@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4a3ad88ff867a295&sni=m.vk.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://e8641a44-cad0-47c4-b253-8b341f0d62af@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=m.vk.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=2476f063981ffd92&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=7426b0c03ef009dc&sni=ozon.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://a953ba0d-6ad8-4b5a-a0fd-1f9a2d7e2aef@37.139.32.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=m.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 
-
-123
-
-# Updated: 2026-01-28 11:32:09
-
-# Updated: 2026-01-28 11:47:13
-
-# Updated: 2026-01-28 11:50:57
-
-# Updated: 2026-01-28 11:56:05
+# Updated: 2026-01-28 12:49:54
