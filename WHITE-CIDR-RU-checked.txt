@@ -18,3 +18,5 @@ vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@95.163.211.158:8443?type=&security=
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@95.163.211.158:8443?encryption=none&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=ir-2.ozone.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@95.163.210.225:443?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+
+# Updated: 2026-02-03 00:28:05
