@@ -1,22 +1,22 @@
-vless://5d91fed7-24fc-4ddf-80f1-589a1275035c@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://ca911bd2-e08f-42d8-aefb-3117494d3367@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://ce7f5e28-d72d-4006-8d70-f428a4721910@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://ce7f5e28-d72d-4006-8d70-f428a4721910@95.163.210.225:443?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://1c5f7c8c-e49a-4cf3-9ca9-ff4497eda5f1@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://231cd1b7-d0b0-49a7-ab7a-19aab29d036f@217.16.23.39:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UohTC_vCYBbFnAoQ6cXgE5ab6xVjBHiELc-Ow2Uyg2I&security=reality&sid=aa482c45443813a1&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
-vless://5b16ec53-450a-4bd5-8db5-dcd74a1863ff@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://5b16ec53-450a-4bd5-8db5-dcd74a1863ff@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://231cd1b7-d0b0-49a7-ab7a-19aab29d036f@217.16.23.39:4443?type=&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=UohTC_vCYBbFnAoQ6cXgE5ab6xVjBHiELc-Ow2Uyg2I&sid=aa482c45443813a1&sni=max.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://ca911bd2-e08f-42d8-aefb-3117494d3367@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
 vless://ede942b0-db9b-4ba4-b775-dfd66b8fc365@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
 vless://ede942b0-db9b-4ba4-b775-dfd66b8fc365@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://d60443b0-77fa-48c4-be67-d6d0044f5d02@95.163.212.112:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bhmXYuOivgD85xqBI7NSernxk-lKYqjLpC3jYsMDQgk&sid=063bbc645f77&sni=event.yandex.ru#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D%20VK
-vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@95.163.211.158:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sni=ir-2.ozone.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
+vless://5d91fed7-24fc-4ddf-80f1-589a1275035c@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://5b16ec53-450a-4bd5-8db5-dcd74a1863ff@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://1c5f7c8c-e49a-4cf3-9ca9-ff4497eda5f1@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://666250e3-362e-440a-b9e3-2b7794c02af8@83.166.255.55:443?security=reality&encryption=none&pbk=3y_BXj6smo8Fc8hrdw94yucA0_V-f8Q-1-WvgNZpsik&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ae-most.asbndx.com&sid=0a77acf80000e11f#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B%2ACIDR%5D%20VK
+vless://666250e3-362e-440a-b9e3-2b7794c02af8@83.166.254.208:443?security=reality&encryption=none&pbk=waphnS0jrd99Dvg1uxlabnTh_D81_i82rZffEFW513Y&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=in-most.asbndx.com&sid=0a79acf99903e79f#%F0%9F%87%AE%F0%9F%87%B3%20India%20%5B%2ACIDR%5D%20VK
+vless://666250e3-362e-440a-b9e3-2b7794c02af8@83.166.252.173:443?security=reality&encryption=none&pbk=jm1tsCkTKsXunYTjcdHLu_whRQRkZWlWdGbSFDVyREw&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru.asbndx.com&sid=0f4dacf89993e20f#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://666250e3-362e-440a-b9e3-2b7794c02af8@83.166.252.181:443?security=reality&encryption=none&pbk=jm1tsCkTKsXunYTjcdHLu_whRQRkZWlWdGbSFDVyREw&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru.asbndx.com&sid=0f4dacf89993e20f#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://666250e3-362e-440a-b9e3-2b7794c02af8@83.166.254.211:443?security=reality&encryption=none&pbk=Q9CCylzEnIVO_atFP1COE0JEw9B06swRLB_alkpCcgM&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=irl-most.asbndx.com&sid=0a33acf82203e11f#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B%2ACIDR%5D%20VK
+vless://ce7f5e28-d72d-4006-8d70-f428a4721910@95.163.210.225:443?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://666250e3-362e-440a-b9e3-2b7794c02af8@83.166.252.90:443?security=reality&encryption=none&pbk=jm1tsCkTKsXunYTjcdHLu_whRQRkZWlWdGbSFDVyREw&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru.asbndx.com&sid=0f4dacf89993e20f#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://ce7f5e28-d72d-4006-8d70-f428a4721910@95.163.210.225:443?type=grpc&security=none&mode=gun&serviceName=&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://5b16ec53-450a-4bd5-8db5-dcd74a1863ff@95.163.210.225:443?type=grpc&security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
 
-# Updated: 2026-02-03 18:58:07
+# Updated: 2026-02-03 19:28:07
