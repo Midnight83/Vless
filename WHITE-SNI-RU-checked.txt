@@ -2,4 +2,4 @@ vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@31-wl.connect-opengate.ru:443?encry
 vless://152e80f4173b42668ab6a918ffcbaded@212.192.14.227:8443?encryption=none&type=xhttp&mode=auto&path=%2Fx&security=reality&fp=random&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sni=ya.ru&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BIPv4%5D%20%5BSNI-RU%5D%20ya.ru
 vless://466b66c5f281499e8bec5eb5ee5a5311@91.184.245.60:8443?encryption=none&type=xhttp&mode=auto&path=%2Fx&security=reality&fp=random&pbk=_uDfJdzfvDID9RWp38olWW45rgvDL1ne8OQWE_GAyH4&sni=ya.ru&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BIPv4%5D%20%5BSNI-RU%5D%20ya.ru
 
-# Updated: 2026-02-19 23:30:04
+# Updated: 2026-02-20 00:00:04
