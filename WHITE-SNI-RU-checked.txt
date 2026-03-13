@@ -1,6 +1,6 @@
 vless://0471f871-75a9-4e3a-8092-3e535cf41f80@lt-cherry-01.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&fp=random&sid=2cfb5a0ae8ab0cb0#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5BSNI-RU%5D%20rbc.ru
-vless://7a1f4deb-0ea9-427e-bc9d-9297a08afa12@fin01.shubnechkin.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=hGY828jSNdeaTJP9-ArNOiA-4JA5SVCXJCYEWoaQLkk&sid=b7&sni=vk.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20vk.com
 vless://0def14f7-5f68-4d4b-8273-97134fb090f8@tralalero.site:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&fp=random&sid=4ffc99daad0f261f#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5BSNI-RU%5D%20rbc.ru
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
+vless://7a1f4deb-0ea9-427e-bc9d-9297a08afa12@fin01.shubnechkin.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=hGY828jSNdeaTJP9-ArNOiA-4JA5SVCXJCYEWoaQLkk&sid=b7&sni=vk.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20vk.com
 
-# Updated: 2026-03-13 08:00:04
+# Updated: 2026-03-13 08:30:04
