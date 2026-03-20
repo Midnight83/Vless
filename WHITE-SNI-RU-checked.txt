@@ -1,5 +1,5 @@
-vless://6bd49dad-c99c-4254-9773-b85548de29f8@de19.fastlanehosting.ru:1443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=2-PK2RY8YRcxqD01Me8ZSRK91iSgE3Zls2P0WFwxqig&sid=b8a8f008c9&sni=eh.vk.com&spx=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20eh.vk.com
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5&sni=vk.ru&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20vk.ru
 vless://0bd3a1ad-8df8-4ba9-bd8e-d4ca68004518@185.125.102.162:2443?type=xhttp&security=reality&fp=chrome&pbk=0EYn2N5tLDHg7-HN5Qg3-9qR1tiqbSZSQhnNMoC351Y&sid=f6&sni=ivi.ru&path=/movies&host=de19.fastlanehosting.ru&mode=auto&spx=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20ivi.ru
+vless://6bd49dad-c99c-4254-9773-b85548de29f8@de19.fastlanehosting.ru:1443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=2-PK2RY8YRcxqD01Me8ZSRK91iSgE3Zls2P0WFwxqig&sid=b8a8f008c9&sni=eh.vk.com&spx=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20eh.vk.com
 
-# Updated: 2026-03-20 21:30:03
+# Updated: 2026-03-20 22:00:05
